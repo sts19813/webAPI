@@ -1,4 +1,4 @@
-﻿namespace devCRUD.Models.DTOs
+﻿namespace webAPI.Models.DTOs
 {
     public class StudentWithCourses
     {
